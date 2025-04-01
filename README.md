@@ -1,4 +1,4 @@
-## BOOKBOT
+# BOOKBOT
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
@@ -21,42 +21,42 @@ python3 bookbot.py --help
 
 Heres a sample output you would see when running the command:
 
-============ BOOKBOT ============
-Analyzing book found at books/frankenstein.txt...
------------ Word Count ----------
-Found 75767 total words
---------- Character Count -------
-e: 44538
-t: 29493
-a: 25894
-o: 24494
-i: 23927
-n: 23643
-s: 20360
-r: 20079
-h: 19176
-d: 16318
-l: 12306
-m: 10206
-u: 10111
-c: 9011
-f: 8451
-y: 7756
-w: 7450
-p: 5952
-g: 5795
-b: 4868
-v: 3737
-k: 1661
-x: 691
-j: 497
-q: 325
-z: 235
-æ: 28
-â: 8
-ê: 7
-ë: 2
-ô: 1
+============ BOOKBOT ============<br>
+Analyzing book found at books/frankenstein.txt...<br>
+----------- Word Count ----------<br>
+Found 75767 total words<br>
+--------- Character Count -------<br>
+e: 44538<br>
+t: 29493<br>
+a: 25894<br>
+o: 24494<br>
+i: 23927<br>
+n: 23643<br>
+s: 20360<br>
+r: 20079<br>
+h: 19176<br>
+d: 16318<br>
+l: 12306<br>
+m: 10206<br>
+u: 10111<br>
+c: 9011<br>
+f: 8451<br>
+y: 7756<br>
+w: 7450<br>
+p: 5952<br>
+g: 5795<br>
+b: 4868<br>
+v: 3737<br>
+k: 1661<br>
+x: 691<br>
+j: 497<br>
+q: 325<br>
+z: 235<br>
+æ: 28<br>
+â: 8<br>
+ê: 7<br>
+ë: 2<br>
+ô: 1<br>
 ============= END ===============
 
 ## DEPENDENCIES
