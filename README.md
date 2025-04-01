@@ -1,20 +1,23 @@
-# BOOKBOT
+## BOOKBOT
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-# WHAT IS IT
+## WHAT IS IT
 Bookbot is fun tool to count all the words 
 
-# HOW TO USE
+## HOW TO USE
 
 Create a books directory in the root of the bookbot
+cmd: mkdir books
+
+ur file system with bookbot as the starting point should look like this:
 (e.g bookbot/books/...)
 
 To run bookbot the command is:
-python3 main.py books/frankeinstein.txt
+python3 bookbot.py books/frankeinstein.txt
 
 If you need help or want to look for other cmds type:
-python3 main.py --help
+python3 bookbot.py --help
 
 Heres a sample output you would see when running the command:
 
@@ -55,3 +58,6 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
+
+## DEPENDENCIES
+Have python3 installed on your machine
